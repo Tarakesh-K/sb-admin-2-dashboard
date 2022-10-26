@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Tarakesh-K.github.io/sb-admin-2",
+  "homepage": "http://Tarakesh-K.github.io/sb-admin-2-dashboard",
   "name": "sb-admin-2-dashboard",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.1",
     "chart.js": "^3.9.1",
+    "missing": "^0.0.1",
+    "packages": "^0.0.8",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-chartjs-2": "^4.3.1",
